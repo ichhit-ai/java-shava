@@ -1,0 +1,5 @@
+ID,RegistrationNo,FullName,Email,IsActive
+S1,24BCE1001,Aarav Sharma,aarav.s@example.com,true
+S2,24BME1002,Diya Patel,diya.p@example.com,true
+S3,24BCE1103,Rohan Verma,rohan.v@example.com,true
+S4,24BIT1204,Isha Singh,isha.s@example.com,true
